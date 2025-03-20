@@ -1,4 +1,35 @@
-## Hi there 👋
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi, I'm Sivaprasad NK.
+</h2>
+<h3>
+  Flutter Developer and Fitness Enthusiast from Tripunithura, Kerala, India.
+</h3>
+
+I 'm
+<p><strong>🌱 Currently learning:</strong> Native Android development using <strong>Kotlin</strong> (XML for UI, Jetpack Compose for modern UI development)</p>
+<p><strong>👯 Looking to collaborate on:</strong> <b>Flutter projects</b>
+<p><strong>🤔 Looking for help with:</strong> <b>Freelance opportunities</b> in Flutter
+<p><strong>💬 Ask me about:</strong> Flutter, Dart, state management (BLoC, Provider, Riverpod), Firebase, and app architecture</p>
+<p>
+  <strong>📫 How to reach me:</strong>
+  <a href="https://www.linkedin.com/in/sivaprasadnkofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sivaprasadnk123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p><strong>⚡ Fun fact: I'm basically powered by <b>Flutter, Fitness, Felines, Films, and Family</b> — if you see me coding with a cat on my lap, watching a movie after a workout, that's just a regular Tuesday. 😎🐱💪🎬👨‍👩‍👧‍👦  
+</p>
+
+
+<h2>📈 GitHub Stats</h2>
+<p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=sivaprasadnk&theme=light" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasadnk&layout=compact&theme=light" height="165px" />
+</p>
+
 
 <!--
 **sivaprasadnk/sivaprasadnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
