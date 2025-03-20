@@ -6,7 +6,6 @@
   Flutter Developer and Fitness Enthusiast from Tripunithura, Kerala, India.
 </h3>
 
-I 'm
 <p><strong>🌱 Currently learning:</strong> Native Android development using <strong>Kotlin</strong> (XML for UI, Jetpack Compose for modern UI development)</p>
 <p><strong>👯 Looking to collaborate on:</strong> <b>Flutter projects</b>
 <p><strong>🤔 Looking for help with:</strong> <b>Freelance opportunities</b> in Flutter
@@ -22,6 +21,20 @@ I 'm
 </p>
 <p><strong>⚡ Fun fact: I'm basically powered by <b>Flutter, Fitness, Felines, Films, and Family</b> — if you see me coding with a cat on my lap, watching a movie after a workout, that's just a regular Tuesday. 😎🐱💪🎬👨‍👩‍👧‍👦  
 </p>
+
+<h2>Tech Stack</h2>
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 
 
 <h2>📈 GitHub Stats</h2>
