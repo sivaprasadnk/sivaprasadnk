@@ -35,7 +35,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sivaprasadnk/sivaprasadnk/output/github-contribution-grid-snake.svg" />
+</p>
 
 <h2>📈 GitHub Stats</h2>
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
