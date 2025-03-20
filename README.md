@@ -45,6 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasadnk&layout=compact&theme=light" height="165px" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprasadnk&bg_color=ffffff&color=000000&line=ff0000&point=000000&area=true&hide_border=true" />
+</p>
+
+
+
 
 <!--
 **sivaprasadnk/sivaprasadnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
