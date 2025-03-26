@@ -41,7 +41,8 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=sivaprasadnk&theme=light" height="165px" />
+
+  <img src="https://streak-stats.demolab.com/?user=sivaprasadnk&theme=light" width="500px" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasadnk&layout=compact&theme=light" height="165px" />
 </p>
 
