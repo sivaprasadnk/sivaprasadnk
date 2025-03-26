@@ -42,7 +42,7 @@
 <h2>📈 GitHub Stats</h2>
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sivaprasadnk" width="500px" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sivaprasadnk" height="165px" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasadnk&layout=compact&theme=light" height="165px" />
 </p>
 
