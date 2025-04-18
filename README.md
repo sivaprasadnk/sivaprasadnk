@@ -42,7 +42,7 @@
 <h2>📈 GitHub Stats</h2>
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sivaprasadnk&theme=microsoft&v=10&cache_seconds=3600" height="165px" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sivaprasadnk&theme=microsoft&v=18&cache_seconds=3600" height="165px" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasadnk&layout=compact&theme=light" height="165px" />
 </p>
 
